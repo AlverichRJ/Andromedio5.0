@@ -20,7 +20,7 @@ const Equipo = () => {
   return (
 
     <div
-    className="container mx-auto mt-52 py-16 tracking-tighter h-[100vh]"
+    className="container mx-auto mt-52 py-16 tracking-tighter "
     id="equipo"
   >
     <h2 className="relative -top-20 mb-36 text-center text-4xl font-semibold">

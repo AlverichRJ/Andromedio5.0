@@ -25,9 +25,9 @@ const itemVariants={
 
 const Proyectos = () => {
   return (
-    <div id="proyectos" className=" ">
+    <div id="proyectos" className=" md:h-full ">
         <motion.h2
-        className=" mt-20 text-center text-4xl font-semibold  "
+        className=" mt-48 text-center text-4xl font-semibold  "
         initial="hidden"
         whileInView="visible"
         variants={containerVariants}

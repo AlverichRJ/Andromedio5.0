@@ -8,7 +8,7 @@ export const Inicio = () => {
     <>
     <div
 
-    className='relative flex min-h-screen items-end justify-center'
+    className='relative flex min-h-screen items-end justify-center ms:min-w-2xl '
     id='inicio'
     >
 

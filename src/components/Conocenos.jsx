@@ -3,9 +3,9 @@ import { motion } from "framer-motion";
 
 const Conocenos = () => {
   return (
-    <div className='container mx-auto ' id='conocenos'>
+    <div className='container mx-auto  py-16 tracking-tighter ' id='conocenos'>
         <motion.h2
-        className="mt-20 text-center text-4xl font-semibold"
+        className="relative mt-20 text-center text-4xl font-semibold bg"
         intial={{ opacity: 0, y: -20 }}
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
@@ -14,7 +14,7 @@ const Conocenos = () => {
        Conócenos
     </motion.h2>
     <motion.h3
-        className="mt-14 -ml-1 p-4  uppercase lg:text-[2rem]"
+        className="mt-12 -ml-1 p-4  uppercase lg:text-[2rem]"
         initial={{ opacity: 0, x: -100 }}
         whileInView={{ opacity: 1, x: 0 }}
         transition={{ duration: 1 }}

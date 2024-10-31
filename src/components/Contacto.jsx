@@ -70,7 +70,7 @@ const Contacto = () => {
 
   return (
 
-    <div className="mx-auto max-w-3xl p-4  h-[50vh]" id="contact">
+    <div className="mx-auto max-w-3xl p-4  " id="contact">
       <Toaster />
       <h2 className="my-8 text-center text-4xl font-semibold tracking-tighter">
       Cuéntanos tus dudas

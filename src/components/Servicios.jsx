@@ -53,7 +53,7 @@ const itemVariants2 = {
 
 const Servicios = () => {
   return (
-    <div className="container mx-auto h-[100vh]" id="servicios">
+    <div className="container mx-auto mt-72 py-16 tracking-tighter" id="servicios">
       <h2 className="mb-1 -mt-[50px] text-center text-4xl font-semibold">Servicios</h2>
       <motion.div
         className="mx-2 flex flex-col rounded-xl bg-gradient-to-b from-zinc-900 to-zinc-950 px-4 py-10 lg:px-20"
