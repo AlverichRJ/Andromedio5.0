@@ -39,7 +39,7 @@ export const Inicio = () => {
         >
 
         <h1 className='text-5xl font-semibold uppercase tracking-wide md:text-7xl'>
-            {Profiler.name}
+          
         </h1>
 
         <p className='pt-2 font-semibold ml-3'>{Profiler.info}</p>

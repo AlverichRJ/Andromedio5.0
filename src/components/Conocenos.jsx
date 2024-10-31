@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const Conocenos = () => {
   return (
-    <div className='container mx-auto h-[90vh]' id='conocenos'>
+    <div className='container mx-auto ' id='conocenos'>
         <motion.h2
         className="mt-20 text-center text-4xl font-semibold"
         intial={{ opacity: 0, y: -20 }}

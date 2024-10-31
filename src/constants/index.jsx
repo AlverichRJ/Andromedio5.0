@@ -28,14 +28,14 @@ export const NAVIGATION_LINKS = [
   { label: "Conócenos", href: "#conocenos" },
   { label: "Proyectos", href: "#proyectos" },
   { label: "Servicios", href: "#servicios" },
-  { label: "", href: "#award" },
+  
   { label: "Equipo", href: "#equipo" },
   { label: "Contacto", href: "#contact" },
 ];
 
 export const PROFILE = {
-  name: "",
-  info: "",
+  name: "hola",
+  info: "a todos",
 };
 
 export const ABOUT = {
